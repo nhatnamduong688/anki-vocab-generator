@@ -1,0 +1,5 @@
+genanki>=1.13.0
+gtts>=2.3.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+

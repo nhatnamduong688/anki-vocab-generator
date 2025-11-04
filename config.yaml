@@ -1,0 +1,17 @@
+# Anki Vocab Generator Configuration
+
+deck:
+  name: "English Vocabulary Phrases"
+  description: "Extracted English phrases from text with definitions"
+
+card:
+  enable_audio: false  # Set to true to generate pronunciation audio (requires gtts)
+  enable_examples: false  # Set to true to fetch example sentences
+  
+styling:
+  front_bg_color: "#f8f9fa"
+  back_bg_color: "#ffffff"
+  phrase_color: "#2c3e50"
+  definition_color: "#34495e"
+  type_color: "#7f8c8d"
+
