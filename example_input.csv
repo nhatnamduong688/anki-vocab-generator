@@ -1,0 +1,12 @@
+text,type,pos/structure,lemma,definition
+look up,phrasal_verb,VERB+PART,look up,search for information in a reference source
+give up,phrasal_verb,VERB+PART,give up,stop doing or pursuing something
+apply to component,verb_prep,VERB+ADP+NOUN,apply to component,put into service; make work or employ for a particular purpose
+search for react,verb_prep,VERB+ADP+NOUN,search for react,the activity of looking thoroughly in order to find something or someone
+api design,collocation,NOUN_NOUN,api design,the act of working out the form of something
+error message,collocation,NOUN_NOUN,error message,a communication that indicates an error or problem
+keyboard navigation,collocation,NOUN_NOUN,keyboard navigation,the process of moving through elements using keyboard keys
+data structure,collocation,NOUN_NOUN,data structure,an organization of data in computer memory
+the typeahead component,noun_phrase,NOUN CHUNK,the typeahead component,a user interface element that suggests completions as you type
+the user experience,noun_phrase,NOUN CHUNK,the user experience,the overall experience of a person using a product
+
